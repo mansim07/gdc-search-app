@@ -1,0 +1,10 @@
+.col {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(01px + 1vmin);
+    color: rgb(20, 20, 20);
+
+}
